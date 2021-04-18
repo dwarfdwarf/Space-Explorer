@@ -3,6 +3,10 @@ Play as an alien and explore space! Fly around on a spaceship, and collect stars
 
 ![](https://github.com/llisaeva/Space-Explorer/blob/main/demo-img/demo1.png)
 
+<p align = "right">
+  <img src="https://github.com/llisaeva/Space-Explorer/blob/main/demo-img/demo-anim.gif" align ="right" alt="animated" width= "400"/>
+</p>
+
 # Controls 
 `←` `→` - use the arrow keys to move. <br/>
 `↑` - jump <br/>
